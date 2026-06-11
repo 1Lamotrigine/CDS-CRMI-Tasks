@@ -1,0 +1,17 @@
+.a1, .b1, .c1, .d1, .e1, .f1, .g1, .h1 { background-color: #4df243; }
+.a2, .b2, .c2, .d2, .e2, .f2, .g2, .h2 { background-color: #4df243; }
+.a3, .b3, .c3, .d3, .e3, .f3, .g3, .h3 { background-color: #4df243; }
+.a4, .b4, .c4, .d4, .e4, .f4, .g4, .h4 { background-color: #4df243; }
+.a5, .b5, .c5, .d5, .e5, .f5, .g5, .h5 { background-color: #4df243; }
+.a6, .b6, .c6, .d6, .e6, .f6, .g6, .h6 { background-color: #4df243; }
+.a7, .b7, .c7, .d7, .e7, .f7, .g7, .h7 { background-color: #4df243; }
+.a8, .b8, .c8, .d8, .e8, .f8, .g8, .h8 { background-color: #4df243; }
+
+.b1, .g2, .c3, .f4, .b5, .h6, .a7, .f8 { background-color: #3aa635; }
+
+.b2, .c2, .f2, .g2 { background-color: #000000; }
+.b3, .c3, .f3, .g3 { background-color: #000000; }
+.d4, .e4 { background-color: #000000; }
+.c5, .d5, .e5, .f5 { background-color: #000000; }
+.c6, .d6, .e6, .f6 { background-color: #000000; }
+.c7, .f7 { background-color: #000000; }
